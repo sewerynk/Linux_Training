@@ -1,0 +1,22 @@
+* Linux for beginners to advanced user *
+
+
+
+Agenda szkolenia:
+
+1. Operacje na plikach/katalogach wszelkiego rodzaju (tworzenie, usuwanie,
+   tworzenie linkow symbolicznych, nadawanie praw plikom, podglad praw plikow,
+   ,glowne drzewo katalogow etc.)
+
+2. Zarzadzanie uzytkownikami, utworzeni grupy, zarzadzanie dostepami dla uzytkownikow,
+   wprowadzenie do serwerow autentyfikacji (LDAP), uzytkownicy root, ACL etc.
+
+3. Procesy - wyswietlanie procesow, zarzadanie procesami, cron, crontab, procesy w tle
+   PID, PPID etc.
+
+4. Zarzadzanie paczkami oprogramowania, pakiety apt, yum, rpm, deb repozytoria
+
+5. Narzedzia Archiwazacji, pakowania plikow - tar, gzip, xd - kompresja calych folderow
+   ochrona haslem etc.
+
+6. TBD..... 
