@@ -1,12 +1,13 @@
 
 
-                  Linux - Trening dla poczatkujących
+Linux - Trening dla poczatkujących
 
+![Linux Project logo](https://bitcoin.pl/wp-content/uploads/2014/09/linux-logo-4.jpg/ "The Linux Project")
 
 
 Agenda Szkolenia:
 
-  - Rodział pierwszy: Praca na plikach plus poznawanie drzewa katalogów systemu operaycjnego Ubuntu
+  ## Rodział pierwszy: Praca na plikach plus poznawanie drzewa katalogów systemu operaycjnego Ubuntu
                       Podstawowe komendy w systemie linux
       - Komendy do tworzenia katalogów, plików etc
       - Poznanie szczegółowe drzewa katalogów/lokalizacji
@@ -14,5 +15,5 @@ Agenda Szkolenia:
       - Komendy file, type, ls, chmod, w, ps, top, ip a etc
       - Ćwiczenia
       
-  - Rodział drugi
+  ## Rodział drugi
       
