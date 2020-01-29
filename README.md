@@ -2,7 +2,7 @@
 
 Linux - Trening dla poczatkujących
 
-![Linux Project logo](https://bitcoin.pl/wp-content/uploads/2014/09/linux-logo-4.jpg/ "The Linux Project")
+![Linux Project logo](https://github.com/sewerynk/Linux_Training/blob/linux_training/Linux_Logo.png "The Linux Logo")
 
 
 Agenda Szkolenia:
